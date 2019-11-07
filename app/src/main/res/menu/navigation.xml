@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/navigation_beranda"
+        android:icon="@drawable/size_dashboard"
+        android:title="Beranda"/>
+
+    <item
+        android:id="@+id/navigation_presensi"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Presensi"/>
+
+    <item
+        android:id="@+id/navigation_akun"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Akun"/>
+</menu>
